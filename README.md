@@ -1,1 +1,1 @@
-just click on each elemwnt it will show details
+just click on each element it will show details
